@@ -2,7 +2,7 @@
 
 An open-source collective founded by Computer Science Engineering students to build scalable applications, tools, and innovative tech projects.
 
----
+--
 
 ## 🚀 Projects
 
